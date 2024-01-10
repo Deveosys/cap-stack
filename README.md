@@ -1,11 +1,9 @@
 # Remix Cap Stack
 
-![The Remix Cap Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
-
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
 ```sh
-npx create-remix@latest --template deveosys/remix-cap-stack
+npx create-remix@latest --template Deveosys/cap-stack
 ```
 
 ## What's in the stack
